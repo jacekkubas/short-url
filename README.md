@@ -9,5 +9,5 @@ Stack used:
 - React
 - Styled Components
 
-App made with the help of 1pt.co API.
+App made with help of the 1pt.co API.
 

@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import Styled, { GlobalStyle } from './components/Styled';
+import Styled, { GlobalStyle } from '../components/Styled';
 
 export default function Home() {
   const [urlToShorten, setUrlToShorten] = useState('');
