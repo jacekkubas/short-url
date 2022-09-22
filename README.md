@@ -2,7 +2,7 @@
 ### Too much advertising and inconvenient use?
 ## Do not waste time. Use this app.
 
-Clone the project or use it directly on Vercel https://vercel.com
+Clone the project or use it directly on Vercel https://shorty-phi.vercel.app/
 
 Stack used:
 - Next.js
